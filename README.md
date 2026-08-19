@@ -41,10 +41,10 @@ streamlit run app.py
 The first model load downloads `google-t5/t5-small` from Hugging Face.
 
 Example queries:
-- I have a budget of 800 SAR per night in Riyadh. Recommend a highly rated hotel.
-- Recommend cheap Saudi restaurants in Riyadh under 100 SAR.
-- What are the best cultural places to visit in Riyadh?
-- I want a 2-day Riyadh trip with a hotel, restaurants, and attractions.
+- I have a budget of 800 SAR per night in city. Recommend a highly rated hotel.
+- Recommend cheap Saudi restaurants in city under 100 SAR.
+- What are the best cultural places to visit in city?
+- I want a 2-day city trip with a hotel, restaurants, and attractions.
 
 For a stronger portfolio/research version, replace the demo CSVs with a larger
 dataset and fine-tune T5 on `(user query + retrieved context) -> answer`.
