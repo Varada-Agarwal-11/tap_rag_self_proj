@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+torch>=2.3,<3
+transformers>=4.45,<5
+sentencepiece>=0.2,<1
+langchain-core>=0.3,<1

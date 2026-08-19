@@ -1,0 +1,8 @@
+name,cuisine,price_range,min_price,max_price,rating,location,description
+Najd Table,Saudi,Budget,35,80,4.5,Riyadh,Traditional Saudi dishes in a casual setting
+Arabian Flame,Saudi,Moderate,70,160,4.7,Riyadh,Popular Saudi cuisine with a modern presentation
+Saffron House,Indian,Moderate,55,140,4.4,Riyadh,Indian restaurant with vegetarian friendly choices
+Pasta District,Italian,Moderate,60,150,4.3,Riyadh,Italian comfort food near central districts
+Levant Garden,Lebanese,Budget,30,90,4.2,Riyadh,Lebanese dishes suitable for groups
+Sea Pearl,Seafood,Luxury,120,280,4.6,Riyadh,Seafood dining with premium menu options
+Corniche Bites,Saudi,Budget,30,75,4.3,Jeddah,Casual local food near the waterfront
